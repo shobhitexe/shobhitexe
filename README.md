@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![shobhitexe's GitHub | Languages Over Time](https://stats.quine.sh/shobhitexe/languages-over-time?theme=dark)](https://quine.sh)
+
